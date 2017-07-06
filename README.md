@@ -8,3 +8,5 @@ Essentials to read, write, update and delete with Firebase as DB
    * firebaseAuth sign in types : https://firebase.google.com/docs/auth/web/start
 - Allow users to change their profile details
    * manage users in firebase : https://firebase.google.com/docs/auth/web/manage-users
+
+All References for Firebase : https://firebase.google.com/docs/reference/js/
