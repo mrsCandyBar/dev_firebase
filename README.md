@@ -6,3 +6,5 @@ Essentials to read, write, update and delete with Firebase as DB
    * rule types and custom rule types : https://firebase.google.com/docs/database/security/quickstart
 - Get authorized with firebaseAuth
    * firebaseAuth sign in types : https://firebase.google.com/docs/auth/web/start
+- Allow users to change their profile details
+   * manage users in firebase : https://firebase.google.com/docs/auth/web/manage-users
